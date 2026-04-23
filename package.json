@@ -1,0 +1,23 @@
+{
+  "name": "gmc-distributed-key-value-store-with-consistent-hashing-and-caching",
+  "version": "1.0.0",
+  "description": "Distributed Key-Value Store with Consistent Hashing and Caching",
+  "keywords": [
+    "distributed-system"
+  ],
+  "homepage": "https://github.com/alban-okoby/gmc-distributed-key-value-store-with-consistent-hashing-and-caching#readme",
+  "bugs": {
+    "url": "https://github.com/alban-okoby/gmc-distributed-key-value-store-with-consistent-hashing-and-caching/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alban-okoby/gmc-distributed-key-value-store-with-consistent-hashing-and-caching.git"
+  },
+  "license": "ISC",
+  "author": "Alban Okoby",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
